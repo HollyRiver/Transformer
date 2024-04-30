@@ -1,2 +1,2 @@
-# gpt
-Development test based gpt-j(Using open source)
+# Transfromer
+Studying of Transformer.
